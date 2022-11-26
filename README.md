@@ -1,6 +1,6 @@
 # supertokens-kakao-provider
 
-[![Publish Package to npmjs](https://github.com/eunchurn/supertokens-kakao-provder/actions/workflows/publish.yml/badge.svg)](https://github.com/eunchurn/supertokens-kakao-provder/actions/workflows/publish.yml) ![npm](https://img.shields.io/npm/dw/supertokens-kakao-provider) [![npm version](https://badge.fury.io/js/supertokens-kakao-provider.svg)](https://badge.fury.io/js/supertokens-kakao-provider) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Publish Package to npmjs](https://github.com/eunchurn/supertokens-kakao-provider/actions/workflows/publish.yml/badge.svg)](https://github.com/eunchurn/supertokens-kakao-provider/actions/workflows/publish.yml) ![npm](https://img.shields.io/npm/dw/supertokens-kakao-provider) [![npm version](https://badge.fury.io/js/supertokens-kakao-provider.svg)](https://badge.fury.io/js/supertokens-kakao-provider) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Kakao providers for SuperTokens
 
