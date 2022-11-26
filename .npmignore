@@ -12,3 +12,4 @@ renovate.json
 tsconfig.build.json
 tsconfig.json
 yarn.lock
+CHANGELOG.md
