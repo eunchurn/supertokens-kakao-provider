@@ -1,6 +1,6 @@
 {
   "name": "supertokens-kakao-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Kakao provider for SuperTokens",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
