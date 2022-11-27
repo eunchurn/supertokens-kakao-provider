@@ -6,6 +6,12 @@ Kakao providers for SuperTokens
 
 [SuperTokens](https://supertokens.com)애서 간편 로그인의 Kakao Custom provider를 제공합니다.
 
+## Installation
+
+```
+npm install supertokens-kakao-provider
+```
+
 ## Usage
 
 ### Express Backend: kakao SignIn and SignUp
@@ -126,3 +132,10 @@ async function handleGoogleCallback() {
   }
 }
 ```
+
+## API
+
+- `clientId`(required): `string` The client ID you received from Kakao API when you registered. 앱 REST API 키 [내 애플리케이션] > [앱 키]에서 확인 가능
+- `clientSecret`(optional): `string` The client secret you received from Kakao API when you registered your application. if you set required, it required.
+- `redirectUrl`(optional): `string` The URL to redirect to after the user has logged in. 인가 코드를 전달받을 서비스 서버의 URI [내 애플리케이션] > [카카오 로그인] > [Redirect URI]에서 등록
+- `relativeRedirectUrl`(optional): `string` The relative URL to redirect to after the user has logged in. if you set `reidrectUrl`, this field not required.
