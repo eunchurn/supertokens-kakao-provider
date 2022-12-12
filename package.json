@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "axios": "^1.2.1",
-    "supertokens-node": "^12.1.1"
+    "supertokens-node": "^12.1.2"
   },
   "peerDependencies": {
     "axios": "^1.2.0",
