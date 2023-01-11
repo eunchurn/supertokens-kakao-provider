@@ -4091,10 +4091,10 @@ supertokens-js-override@^0.0.4:
   resolved "https://registry.yarnpkg.com/supertokens-js-override/-/supertokens-js-override-0.0.4.tgz#9af583fbc5e1f0195dbb358c4fcf75f44c76dc09"
   integrity sha512-r0JFBjkMIdep3Lbk3JA+MpnpuOtw4RSyrlRAbrzMcxwiYco3GFWl/daimQZ5b1forOiUODpOlXbSOljP/oyurg==
 
-supertokens-node@^12.1.3:
-  version "12.1.3"
-  resolved "https://registry.yarnpkg.com/supertokens-node/-/supertokens-node-12.1.3.tgz#a6a19d2bb226369ccc071861e876ed45d12b281b"
-  integrity sha512-qGoPSFhqYoJD+7tQKTLzV3uDAW5I3Fnxvjt/d3q5NdNjSfg8Iwgwr2VCT7bpJ35ShACnfYBiB2AOR5sVyFiOIg==
+supertokens-node@^12.1.5:
+  version "12.1.5"
+  resolved "https://registry.yarnpkg.com/supertokens-node/-/supertokens-node-12.1.5.tgz#24f1ce87565b4bcd6bc87b76c876992db670a3b7"
+  integrity sha512-X+098F/VsZzUrC06C8D8YQ8zq8lg8MqmGBxdxsmulYbLHtAAitMc9LMaWusMM3yclrYWo7H87TORbjH3M9/+jw==
   dependencies:
     axios "0.21.4"
     body-parser "1.20.1"
